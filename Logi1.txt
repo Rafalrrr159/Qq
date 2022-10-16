@@ -1,0 +1,14 @@
+Logi wyświetlone po uruchomieniu aplikacji:
+2022-10-16 23:56:10.639 11568-11568/com.example.quizz D/MainActivity: Wywołana została metoda z cyklu życia: onCreate
+2022-10-16 23:56:10.928 11568-11568/com.example.quizz D/MainActivity: Wywołana została metoda z cyklu życia: onStart
+2022-10-16 23:56:10.934 11568-11568/com.example.quizz D/MainActivity: Wywołana została metoda z cyklu życia: onResume
+
+Logi wyświetlone po obróceniu ekranu:
+2022-10-16 23:56:18.731 11568-11568/com.example.quizz D/MainActivity: Wywołana została metoda z cyklu życia: onPause
+2022-10-16 23:56:18.738 11568-11568/com.example.quizz D/MainActivity: Wywołana została metoda z cyklu życia: onStop
+2022-10-16 23:56:18.760 11568-11568/com.example.quizz D/MainActivity: Wywołana została metoda z cyklu życia: onDestroy
+2022-10-16 23:56:18.901 11568-11568/com.example.quizz D/MainActivity: Wywołana została metoda z cyklu życia: onCreate
+2022-10-16 23:56:19.055 11568-11568/com.example.quizz D/MainActivity: Wywołana została metoda z cyklu życia: onStart
+2022-10-16 23:56:19.061 11568-11568/com.example.quizz D/MainActivity: Wywołana została metoda z cyklu życia: onResume
+
+Po obróceniu ekranu utracony zostaje indeks pytania, wyświetlanego przed dokonaniem obrotu. Po obróceniu ekranu wyświetlane jest pierwsze pytanie bez względu na to przy którym pytaniu został dokonany obrót.
