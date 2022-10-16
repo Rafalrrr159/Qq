@@ -10,4 +10,11 @@
     <string name="q_find_resources">Do zasobow w aplikacji dla systemu Android odnosimy sie po nazwach</string>
     <string name="correct_answer">Dobrze</string>
     <string name="incorrect_answer">Zle</string>
+    <string name="prompt1">Jaki komponent to jeden ekran twojej aplikacji</string>
+    <string name="prompt2">Android 8 został wydany w roku 2017</string>
+    <string name="prompt3">Rozwiązanie to ma zapewnić możliwość jednoczesnej pracy wielu programów w jednej instancji systemu operacyjnego.</string>
+    <string name="prompt4">Pliki .xml są wygodne w obsłudze</string>
+    <string name="prompt5">Co przekazujemy gdy chcemy się odwołać do zasobu></string>
+    <string name="correct_answerr">Dobrze, ale widziałeś podpowiedź</string>
+    <string name="incorrect_answerr">Zle, pomimo że zobaczyłeś podpowiedź</string>
 </resources>
